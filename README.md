@@ -4,9 +4,8 @@
 
 # Estimation of Human Hip Size Using ArUco Marker and Computer Vision
 - The goal of this project is to estimate the hip size of a human using a 3D mesh, an ArUco marker with known dimensions, and an AI-driven approach.
-
-
-- note: The "main" folder is the project folder, the "everything_zipped" just has a copy of the dataset used and a copy of this README file  
+- The Poster.pdf added covers the entinre process and results for a quick overview.
+ 
 
 ## Step 1: DATASET GENERATION 
 

@@ -1,0 +1,13 @@
+names:
+- aruco
+- hip
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: human_parts_final
+  url: https://universe.roboflow.com/leooo/human_parts_final/dataset/1
+  version: 1
+  workspace: leooo
+test: /content/Human_parts_final-1/test/images
+train: /content/Human_parts_final-1/train/images
+val: /content/Human_parts_final-1/valid/images

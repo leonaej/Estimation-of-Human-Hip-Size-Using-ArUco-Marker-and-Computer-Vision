@@ -12,7 +12,7 @@
 
 ### - To automate the dataset collection using unreal engine, I worked with the unreal engine Blueprints  
 
-![Visual Code](./images_explain/unreal_blueprint.png)
+![Visual Code](./main/images_explain/unreal_blueprint.png)
 
 ## Step 2: requirements.txt
 
@@ -22,13 +22,13 @@
 
 ### - To train go to the train.ipynb file inside the main folder. Using the train, test, valid and the data.yaml file inside Human_parts_final-1 folder, I trained a yolov8m model. The best model is saved as best.pt inside the runs/detect/train/weights. I have copied this directly under the main folder for easy access.
 
-![Detection Results](./images_explain/detection_result.png)
+![Detection Results](.main/images_explain/detection_result.png)
 
 ## Step 4: ESTIMATE THE WAIST
 
 ### - Inside the estimating_waist folder, there is a main.ipynb. Run this file to get the estimates on the test set. 
 
-![Detection Results](./images_explain/estimate_true.png)
+![Detection Results](.main/images_explain/estimate_true.png)
 
 ## Step 5: ACCESSING THE TRAIN, VAL AND TEST SET
 

@@ -22,13 +22,13 @@
 
 ### - To train go to the train.ipynb file inside the main folder. Using the train, test, valid and the data.yaml file inside Human_parts_final-1 folder, I trained a yolov8m model. The best model is saved as best.pt inside the runs/detect/train/weights. I have copied this directly under the main folder for easy access.
 
-![Detection Results](.main/images_explain/detection_result.png)
+![Detection Results](./main/images_explain/detection_result.png)
 
 ## Step 4: ESTIMATE THE WAIST
 
 ### - Inside the estimating_waist folder, there is a main.ipynb. Run this file to get the estimates on the test set. 
 
-![Detection Results](.main/images_explain/estimate_true.png)
+![Detection Results](./main/images_explain/estimate_true.png)
 
 ## Step 5: ACCESSING THE TRAIN, VAL AND TEST SET
 
